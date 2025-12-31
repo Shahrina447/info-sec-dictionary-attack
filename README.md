@@ -7,7 +7,6 @@ This assignment was completed as part of the Information Security course.
 Objective
 
 The main objective of this project is to:
-
 Demonstrate how password hashing works
 
 Perform a dictionary attack without using any database
