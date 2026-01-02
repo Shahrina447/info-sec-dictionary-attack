@@ -1,2 +1,2 @@
-Summary
+
 This project implements a dictionary attack on a SHA-256 hashed password to demonstrate how weak passwords can be compromised when they exist in a predefined wordlist. The program hashes a user-entered password and compares it against hashes generated from a dictionary of commonly used passwords, without using any database. The project highlights the importance of strong and unique passwords and serves as an educational demonstration for the Information Security course.
